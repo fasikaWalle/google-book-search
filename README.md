@@ -12,7 +12,7 @@ This application contains a MERN stack web application that allows a user to sea
 
 ## Usage
 
-Deployed link: 
+Deployed link:https://fasikawalle-google-book-search.herokuapp.com/
 ![Google-Book-Search](https://user-images.githubusercontent.com/73629983/118378405-478d5300-b599-11eb-9748-5bd58d8ec25b.png)
 
 ## Licence

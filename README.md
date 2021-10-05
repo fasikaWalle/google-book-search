@@ -1,9 +1,8 @@
 # Google book search
-
+-------------------------
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-
 This application contains a MERN stack web application that allows a user to search for books and save to a reading list while they are logged in. GraphQL is utilized to fetch data from a Google book API and create the users reading list, and remove books from the list.
 
 ## Installation
